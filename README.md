@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Osman Nevfel Ünlü.</h1>
-<h3 align="left">An Embedded Software Developer from Portugal</h3>
+<h3 align="center">An Embedded Software Developer from Portugal</h3>
 
 <h3 align="left">Currently, working on mostly Data Analysis and Machine Learning.</h3>
 
